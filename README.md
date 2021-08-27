@@ -1,2 +1,2 @@
 # next
-repositório para praticar
+Repositório para praticar comandos do curso de GIT
